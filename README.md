@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @pamindu-janandith
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Pamindu
+- 👀 I’m interested in Backend development
+- 🌱 I’m currently learning Flutter and Node.js
+- 💞️ I’m looking to collaborate on Backend development proccess
 - 📫 How to reach me : pamindu.janandith@gmail.com
